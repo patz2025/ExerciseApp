@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/patz2025/UpdatedExerciseApp.git/static/css/main.350fef98.css",
-    "main.js": "/patz2025/UpdatedExerciseApp.git/static/js/main.1492c3b1.js",
-    "static/js/453.736bcbca.chunk.js": "/patz2025/UpdatedExerciseApp.git/static/js/453.736bcbca.chunk.js",
-    "index.html": "/patz2025/UpdatedExerciseApp.git/index.html",
-    "main.350fef98.css.map": "/patz2025/UpdatedExerciseApp.git/static/css/main.350fef98.css.map",
-    "main.1492c3b1.js.map": "/patz2025/UpdatedExerciseApp.git/static/js/main.1492c3b1.js.map",
-    "453.736bcbca.chunk.js.map": "/patz2025/UpdatedExerciseApp.git/static/js/453.736bcbca.chunk.js.map"
+    "main.css": "/UpdatedExerciseApp/static/css/main.350fef98.css",
+    "main.js": "/UpdatedExerciseApp/static/js/main.ed569975.js",
+    "static/js/453.736bcbca.chunk.js": "/UpdatedExerciseApp/static/js/453.736bcbca.chunk.js",
+    "index.html": "/UpdatedExerciseApp/index.html",
+    "main.350fef98.css.map": "/UpdatedExerciseApp/static/css/main.350fef98.css.map",
+    "main.ed569975.js.map": "/UpdatedExerciseApp/static/js/main.ed569975.js.map",
+    "453.736bcbca.chunk.js.map": "/UpdatedExerciseApp/static/js/453.736bcbca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.350fef98.css",
-    "static/js/main.1492c3b1.js"
+    "static/js/main.ed569975.js"
   ]
 }
